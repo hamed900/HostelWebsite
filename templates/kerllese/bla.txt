@@ -1,0 +1,4 @@
+$gt='<a target="_blank" href="http://www.globbersthemes.com" title="globbersthemes">globbersthemes&nbsp;</a><a target="_blank" href="http://www.globbersthemes.com" title="joomla template">joomla template</a>';
+?>
+
+<?php echo $gt; ?>
